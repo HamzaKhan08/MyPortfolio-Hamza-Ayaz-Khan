@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://hamzakhan08/MyPortfolio-Hamza-Ayaz-Khan.github.io/
+> https://hamzakhan08.github.io/MyPortfolio-Hamza-Ayaz-Khan/
 
 ### Website Preview
 #### Home Page
@@ -34,17 +34,17 @@
 ✔️ About\
 ✔️ Interests\
 ✔️ Education\
-✔️ Online Certification\
+✔️ Certification\
 ✔️ Experience\
 ✔️ Projects \
 ✔️ Skills \
 ✔️ Resume\
-✔️ Contact Info
+✔️ Contact
 
 
 
 ## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS, bootstrap).
 
 ## Contributing 💡
 #### Step 1
